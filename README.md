@@ -1,5 +1,7 @@
 # Your Next Book 📚
 Your Next Book is an AI-powered book recommendation engine that helps users find their next favorite read! It uses text embeddings and FAISS for fast, accurate recommendations based on user preferences.
+<img width="1117" alt="Screenshot 2024-11-08 at 1 59 21 PM" src="https://github.com/user-attachments/assets/575b437e-f8bd-4825-ab2e-958ff3b010d3">
+
 
 ## Features
 - Personalized Book Recommendations: Input a favorite book, and receive a list of similar reads.
@@ -16,4 +18,5 @@ What's your favorite book? Normal People
    Description: ...
 2. Title: Exciting Times by Naoise Dolan
    Description: ...
-...
+
+
