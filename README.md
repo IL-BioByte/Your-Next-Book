@@ -9,7 +9,7 @@ Your Next Book is an AI-powered book recommendation engine that helps users find
 ## Example Usage:
 ### Questions:
 What's your favorite book? Normal People
-Who's your favorite author? Sally Rooney
+<p>Who's your favorite author? Sally Rooney
 
 ### Recommended Books:
 1. Title: Conversations with Friends by Sally Rooney
